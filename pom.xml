@@ -9,8 +9,8 @@
 		<version>2.7.6</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>in.ashokit</groupId>
-	<artifactId>ashokit-contact-app</artifactId>
+	<groupId>in.sivakoppal</groupId>
+	<artifactId>sivakoppala-contact-app</artifactId>
 	<version>1.0.RELEASE</version>
 	<name>ashokit-contact-app</name>
 	<description>Demo project for Spring Boot</description>
